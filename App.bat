@@ -1,0 +1,1 @@
+java -cp ./target/fizzlebuzzing-1.0-SNAPSHOT.jar com.ben.java.fizzbuzzing.App
