@@ -1,5 +1,6 @@
 package com.ben.java.fizzbuzzing;
 
+import com.ben.java.fizzbuzzing.Writer;
 /**
  * Hello world!
  *
@@ -18,7 +19,7 @@ public class App {
             } else {
                 System.out.println(i);
             }
-
         }
+
     }
 }
